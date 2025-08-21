@@ -1,0 +1,1 @@
+export { InvestmentPieChart } from "./InvestmentPieChart";
